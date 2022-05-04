@@ -1,0 +1,20 @@
+﻿  attack.cpp
+  creeper.cpp
+  enemy.cpp
+  gameHandler.cpp
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(334,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(347,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(396,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(405,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(417,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(432,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(439,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quinn\Desktop\HCC Game\HCC Game\gameHandler.cpp(451,24): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Model.cpp
+  player.cpp
+  spider.cpp
+  weapon.cpp
+  Generating Code...
+  HCC Game.vcxproj -> C:\Users\Quinn\Desktop\HCC Game\x64\Debug\HCC Game.exe
